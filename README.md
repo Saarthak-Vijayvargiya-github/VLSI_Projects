@@ -19,7 +19,7 @@ For digital design project, we were just provided the problem and we were requir
 ## What's Inside
 
 The problem statement provided to us is shown below:
-(DigitalProblem_Statement.jpg)
+[](DigitalProblem_Statement.jpg)
 
 Our approach, verilog codes, schematics, layouts and simulation results have been compiled in a form of a report.
 
